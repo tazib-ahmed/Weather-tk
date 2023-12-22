@@ -1,6 +1,6 @@
 # Weather-tk
 API from https://www.weatherapi.com/docs/  \
-Weather Icons from https://cdn.weatherapi.com/weather.zip
+Weather Icons from https://cdn.weatherapi.com/weather.zip \
 Used packages
   - tkinter
   - ctkinter (image display)
